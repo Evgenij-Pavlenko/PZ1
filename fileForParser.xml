@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop shopName="ABC">
+    <goodslist>
+        <good id="1">
+            <name>lenovo-tab</name>
+            <price>1000.0</price>
+            <category>tab</category>
+            <description>tab-pc</description>
+        </good>
+        <good id="2">
+            <name>Samsung-tab</name>
+            <price>1500.0</price>
+            <category>tab</category>
+            <description>tab-pc</description>
+        </good>
+        <good id="3">
+            <name>Dell</name>
+            <price>11000.0</price>
+            <category>notebook</category>
+            <description>notebook-pc</description>
+        </good>
+    </goodslist>
+</shop>
